@@ -28,8 +28,8 @@ task clean(type: Delete) {
 
 ext {
     serializeVersion = "1.0.1"
-    navVersion = "2.3.2"
-    archLifecycleVersion = "2.2.0"
+    navVersion = "2.3.3"
+    archLifecycleVersion = "2.3.0"
     roomVersion = "2.2.6"
     pagingVersion = "2.1.2"
 
@@ -47,6 +47,6 @@ ext {
     mockitoKotlinVersion = '2.2.0'
     mockitoVersion = '3.6.0'
 
-    coilVersion = "1.1.0"
+    coilVersion = "1.1.1"
     lottieVersion = "3.5.0"
 }
